@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+- 👨‍💻 All of my projects are available at **[My Portfolio]("https://krushnadike.github.io/My-React-Portfolio/#/")**
 
 - 📫 How to reach me **dikekrishna155@gmail.com**
 
