@@ -60,11 +60,7 @@
 
 
 <br/>
-<br/>
 
-<a href="https://github.com/KrusnaDike/github-readme-activity-graph"><img alt="Krushna Dike's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KrushnaDike&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
 <br/>
 
 ## Connect with me:
