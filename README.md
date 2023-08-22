@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **New Python Projects**
+- 🔭 I’m currently working on **MERN Stack Development**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
